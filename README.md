@@ -249,24 +249,6 @@ Possible future extensions:
   - Tableau
   - Streamlit
 
----
-
-# Project Structure
-
-```
-FIFA-World-Cup-2026-analysis/
-
-│
-├── data/
-│   └── matches.csv
-│
-├── notebooks/
-│   └── fifa_analysis.ipynb
-│
-├── README.md
-│
-└── requirements.txt
-```
 
 ---
 
